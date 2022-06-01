@@ -15,7 +15,7 @@
 <a href='linkedin.com/in/thakursurajbhansingh'><img height="40px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'/></a>
 <a href='https://www.instagram.com/thakur_suraj_bhan_singh7/'><img height="40px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'/></a>
 
-<h2>Languages and tools</h2>
+<h2>Languages and tools:</h2>
 <a hrf='https://html.com/'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'/></a>
 <a hrf='https://www.w3schools.com/css/'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'/></a>
 <a hrf='https://developer.mozilla.org/en-US/docs/Web/JavaScript'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/></a>

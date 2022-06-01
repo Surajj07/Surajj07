@@ -4,7 +4,7 @@
 <br>
 <li>💬 Ask me about Web Development, Data Structure and Algorithms</li>
 <br>
-<li>📫 How to reach me <a href="bhansinghthakursuraj@gmail.com">bhansinghthakursuraj@gmail.com</a></li>
+<li>📫 How to reach me <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">bhansinghthakursuraj@gmail.com</a></li>
 <br>
 <li>📄 Resume <a href ="https://drive.google.com/file/d/1brN_ThHbfAfyiMS_YyQk3Aa3GLln2wdl/view?usp=sharing"> Click Here</a></li>
 <br>

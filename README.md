@@ -8,6 +8,8 @@
 <br>
 <li>📄 Resume <a href ="https://drive.google.com/file/d/1brN_ThHbfAfyiMS_YyQk3Aa3GLln2wdl/view?usp=sharing"> Click Here</a></li>
 <br>
+<li>📄 Portfolio <a href ="https://thakursurajbhansingh.netlify.app"> Click Here</a></li>
+<br>
 <li>⚡ Fun fact I think I am Jolly </li>  
 </ul>
 

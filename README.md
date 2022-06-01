@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi 👋, I`m Thakur Suraj Bhan Singh
+![image](https://user-images.githubusercontent.com/99983401/171449733-713611ca-e5e4-4ace-8497-f7979e472bfa.png)
+
+
+
 
 <!--
 **Surajj07/Surajj07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

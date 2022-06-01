@@ -6,10 +6,10 @@
 
 📫 How to reach me bhansinghthakursuraj@gmail.com
 
-📄 Resume Click Here
+📄 Resume <a href ="https://drive.google.com/file/d/1brN_ThHbfAfyiMS_YyQk3Aa3GLln2wdl/view?usp=sharing"> Click Here</a>
 
 ⚡ Fun fact I think I am Jolly   
-<a href=https://drive.google.com/file/d/1brN_ThHbfAfyiMS_YyQk3Aa3GLln2wdl/view?usp=sharing> Click here</a>
+
 
 
 

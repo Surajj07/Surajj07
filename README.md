@@ -11,9 +11,9 @@
 ⚡ Fun fact I think I am Jolly   
 
 <h2>Connect With Me:</h2>
-<a href='https://twitter.com/surajrajput0713'><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg'/></a>
-<a href='linkedin.com/in/thakursurajbhansingh'><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'/></a>
-<a href='https://www.instagram.com/thakur_suraj_bhan_singh7/'><img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'/></a>
+<a href='https://twitter.com/surajrajput0713'><img height="40px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg'/></a>
+<a href='linkedin.com/in/thakursurajbhansingh'><img height="40px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'/></a>
+<a href='https://www.instagram.com/thakur_suraj_bhan_singh7/'><img height="40px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'/></a>
 
 
 

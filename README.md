@@ -1,4 +1,6 @@
 # Hi 👋, I`m Thakur Suraj Bhan Singh
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
  <ul>
  <li>🌱 I’m currently learning ReactJs, Redux, DSA</li>
 <br>

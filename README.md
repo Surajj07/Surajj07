@@ -1,6 +1,8 @@
 # Hi 👋, I`m Thakur Suraj Bhan Singh
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Surajj07)](https://github.com/ryo-ma/github-profile-trophy)
  <ul>
  <li>🌱 I’m currently learning ReactJs, Redux, DSA</li>
 <br>
